@@ -1,3 +1,3 @@
-# Welcome to my blog
+# This is Philipps and Steffen personal wiki
 
-I'm glad you are here. I plan to talk about ...
+Only intelligible content of course!
